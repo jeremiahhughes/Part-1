@@ -7,7 +7,7 @@ using UnityEngine;
 public class Car : MonoBehaviour
 {
     Rigidbody2D rigidbody;
-    public float steeringSpeed = 40;
+    public float steeringSpeed = 70;
     public float forwardSpeed = 300;
     float acceleration;
     float steering;
