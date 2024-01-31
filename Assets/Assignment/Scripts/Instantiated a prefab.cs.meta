@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b84955b40be3658489e7ee0131386993
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerPrefab: {fileID: 8264457858172810873, guid: cc54f9acfde9db446b6af79087f74029, type: 3}
+  - MovingPlatformPrefab: {fileID: 3008090562759162271, guid: 064f4b0f54cf6e44cbf1236f586044b2, type: 3}
+  - BouncingBallPrefab: {fileID: 8754509866059079614, guid: 85b19af9deef4794a9220cdd3cf7c146, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
